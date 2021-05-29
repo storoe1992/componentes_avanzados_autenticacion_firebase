@@ -15,5 +15,9 @@ yarn serve
 yarn build
 ```
 
+### Nombre de usuario y contraseña
+user: storoe1992@gmail.com
+pass: 1234567890
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
